@@ -10,6 +10,7 @@ Plug 'majutsushi/tagbar'
 Plug 'iCyMind/NeoSolarized'
 Plug 'neomake/neomake'
 Plug 'davidhalter/jedi-vim'
+Plug 'apalmer1377/factorus'
 
 
 " Polyglot: syntax highlighting for common languages
